@@ -32,8 +32,8 @@ export function NewTransactionModal({
       title,
       amount,
       category,
-      type, 
-    })
+      type,
+    });
 
     return (
       <Modal
